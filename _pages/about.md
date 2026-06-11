@@ -21,9 +21,25 @@ I am Xiaolong Tang. I received the B.E. degree in Electronic and Information Eng
 
 My current research interests focus on 3D point cloud upsampling and quality assessment.
 
-I have published 3 papers with total <a href='https://scholar.google.com/citations?user=V6SSunkAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=V6SSunkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published 4 papers with total <a href='https://scholar.google.com/citations?user=V6SSunkAAAAJ'>google scholar citations <strong><span id='total_cit'>0+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=V6SSunkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📝 Publications 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">📝2026 IOTJ</div>
+      <img src='../images/01_Paper/2026_IOTJ.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://ieeexplore.ieee.org/document/11557331">PU-TransMamba: A Hybrid Point Cloud Upsampling Framework with Detail-Aware Transformer and Spatially-Coherent Mamba </a>, 
+      <strong>Xiaolong Tang</strong>, Feng Shao; Xiongli Chai; Hangwei Chen; Zhongjie Zhu; Zhiyi Mo, 
+      <em>IEEE Internet of Things Journal</em>
+    </p>
+  </div>
+</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
